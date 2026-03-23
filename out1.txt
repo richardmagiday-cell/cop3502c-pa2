@@ -1,0 +1,5 @@
+Best Teams Grouping score: 1208.00
+Team 1: Caesar Coco Hana 451.67
+Team 2: Percy Polter Leo 344.00
+Team 3: Pikachu Fudge Pieces 412.33
+Best Candidate: Caesar Coco Hana 
